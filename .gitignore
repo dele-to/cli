@@ -1,0 +1,12 @@
+/target/
+.rustc_info.json
+
+.DS_Store
+.idea/
+.vscode/
+
+.env
+.env.*
+!.env.example
+
+*.profraw
